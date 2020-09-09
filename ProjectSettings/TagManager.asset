@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Fire
+  - GameMaster
+  - Enemy
+  - MovingPlatform
+  - WaveUi
+  - NPC
+  - EnemyNotAI
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Background
+  - Obstacle
+  - NPC
+  - Enemy
+  - StunnedEnemy
+  - EnemyNotStunnable
+  - Coin
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2485507683
+    locked: 0
+  - name: AlmostBackground
+    uniqueID: 1571488827
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: NPC
+    uniqueID: 4272332077
+    locked: 0
+  - name: Player
+    uniqueID: 2373580225
+    locked: 0
+  - name: Forground
+    uniqueID: 1211798935
+    locked: 0
